@@ -8,4 +8,6 @@ html {
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
+  font-size: large;
+  font-style: italic;
 }
